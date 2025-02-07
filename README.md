@@ -1,3 +1,15 @@
+### <div align="center">Olá, meu nome é Anabel ≽^•⩊•^≼
+Gosto de transformar ideias em código desde 2020 quando ingressei na área tech.</div>  
+  
+
+✦  
+  
+
+✧  
+  
+
+✦  
+
 ## Linguagens Mais Usadas
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnabelMarinho&layout=compact&theme=material-palenight)
