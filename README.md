@@ -12,7 +12,7 @@ Gosto de transformar ideias em código desde 2020 quando ingressei na área tech
 
 ## Linguagens Mais Usadas
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnabelMarinho&layout=compact&theme=material-palenight)
+![Linguagens](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AnabelMarinho&theme=rose_pine)
 
 ### Tecnologias que Uso
 
